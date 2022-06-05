@@ -1,4 +1,4 @@
-### Hi there, I'm Deelaka 👋 
+### Hi there,👋I'm Deelaka 
 
 ![Deelaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=deelakar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deelakar&layout=compact&theme=radical)](https://github.com/deelakar/github-readme-stats)
