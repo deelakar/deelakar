@@ -1,6 +1,5 @@
 ### Hi there, I'm Deelaka
 
-![Deelaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=deelakar&show_icons=true)
 ![Deelaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=deelakar&show_icons=true&theme=radical)
 
 ### Skills : <br/>
