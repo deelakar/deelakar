@@ -1,6 +1,6 @@
-### Hi there, I'm Deelaka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Deelaka
 
-![dsudasinghe's github stats](https://github-readme-stats.vercel.app/api?username=deelakar&show_icons=true&hide_border=true)
+
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
