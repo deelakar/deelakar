@@ -1,6 +1,6 @@
 ### Hi there, I'm Deelaka
 
-
+![Deelaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=deelakar&hide=contribs,prs)
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
