@@ -1,7 +1,7 @@
 ### Hi there, I'm Deelaka👋 
 
 ![Deelaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=deelakar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deelakar&layout=compact&theme=radical)](https://github.com/deelakar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deelakar&layout=compact&theme=radical)
 
 ### Skills : <br/>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
